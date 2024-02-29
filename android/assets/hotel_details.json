@@ -1,0 +1,90 @@
+{
+  "CountryAddress": "Bangladesh",
+  "HotelDetails": [
+    {
+      "ID": 1,
+      "HotelName": "Dhaka Palace",
+      "HotelNameBn": "ঢাকা প্যালেস",
+      "HotelImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/18/f8/ff/exterior.jpg?w=1200&h=-1&s=1",
+      "HotelAddress": "123 Main Street, Dhaka",
+      "HotelAddressBn": "123 মেইন স্ট্রিট, ঢাকা",
+      "HotelRatingStar": 4.5,
+      "Price": 1500,
+      "priceBn": "১৫০০"
+    },
+    {
+      "ID": 2,
+      "HotelName": "Chittagong Heights",
+      "HotelNameBn": "চিটাগাং হাইটস",
+      "HotelImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/e2/9f/60/grand-sylhet-hotel-resort.jpg?w=1200&h=-1&s=1",
+      "HotelAddress": "456 Ocean View, Chittagong",
+      "HotelAddressBn": "456 ওশান ভিউ, চট্টগ্রাম",
+      "HotelRatingStar": 4.2,
+      "Price": 1200
+    },
+    {
+      "ID": 3,
+      "HotelName": "Sylhet Serenity",
+      "HotelNameBn": "সিলেট",
+      "HotelImage": "https://live.staticflickr.com/3010/2684477627_8aee7fa6f3_c.jpg",
+      "HotelAddress": "789 Mountain Road, Sylhet",
+      "HotelAddressBn": "789 মাউন্টেন রোড, সিলেট",
+      "HotelRatingStar": 4.8,
+      "Price": 1800
+    },
+    {
+      "ID": 4,
+      "HotelName": "Rajshahi Retreat",
+      "HotelNameBn": "রাজশাহী",
+      "HotelImage": "https://qph.cf2.quoracdn.net/main-qimg-7bb72f0c262434890a93bab265040752.webp",
+      "HotelAddress": "101 Riverside Avenue, Rajshahi",
+      "HotelAddressBn": "101 রিভারসাইড এভিনিউ, রাজশাহী",
+      "HotelRatingStar": 4.0,
+      "Price": 1000
+    },
+    {
+      "ID": 5,
+      "HotelName": "Khulna Comfort Inn",
+      "HotelNameBn": "খুলনা",
+      "HotelImage": "https://lh3.googleusercontent.com/p/AF1QipNB6JPruxStSNJ51AxGHMfhHwb_aavbo2pSLQJS=w287-h192-n-k-rw-no-v1",
+      "HotelAddress": "234 Green Park, Khulna",
+      "HotelAddressBn": "234 গ্রীন পার্ক, খুলনা",
+      "HotelRatingStar": 4.3,
+      "Price": 1300
+    },
+    {
+      "ID": 6,
+      "HotelName": "Barisal Bliss",
+      "HotelNameBn": "বরিশাল",
+      "HotelImage": "https://media-cdn.tripadvisor.com/media/photo-s/1d/4b/88/d3/hotel-sayem-inn.jpg",
+      "HotelAddress": "567 Harmony Lane, Barisal",
+      "HotelAddressBn": "567 হারমনি লেন, বরিশাল",
+      "HotelRatingStar": 4.6,
+      "Price": 1600
+    },
+    {
+      "ID": 7,
+      "HotelName": "Comilla Crown Plaza",
+      "HotelNameBn": "কুমিল্লা",
+      "HotelImage": "https://lh3.googleusercontent.com/p/AF1QipNhrlxa4LmpS_RLYyhRM8pBj9_3JuQrhyFuTV32=w287-h192-n-k-rw-no-v1",
+      "HotelAddress": "789 রয়্যাল স্ট্রিট, কুমিল্লা",
+      "HotelRatingStar": 4.4,
+      "Price": 1400
+    },
+    {
+      "ID": 8,
+      "HotelName": "Rangpur Residency",
+      "HotelNamen": "রংপুর রেসিডেন্সি",
+      "HotelImage": "https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg",
+      "HotelAddress": "345 Garden Avenue, Rangpur",
+      "HotelAddressBn": "345 গার্ডেন এভিনিউ, রংপুর",
+      "HotelRatingStar": 4.1,
+      "Price": 1100
+    }
+  ]
+}
+
+
+
+
+
